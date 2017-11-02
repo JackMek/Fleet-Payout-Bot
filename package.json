@@ -2,7 +2,7 @@
   "name": "shard-payout",
   "version": "1.0.0",
   "description": "",
-  "main": "./lib",
+  "main": "bot.js",
   "scripts": {
     "compile": "babel src --out-dir lib",
     "start": "node bot.js"
