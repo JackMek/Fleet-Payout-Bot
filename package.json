@@ -2,7 +2,7 @@
   "name": "shard-payout",
   "version": "1.0.0",
   "description": "",
-  "main": "bot.js",
+   "main": "src/bot.js",
   "scripts": {
      "start": "node bot.js"
   },
